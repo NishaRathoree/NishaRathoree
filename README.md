@@ -15,8 +15,8 @@ Social Media 📡:
 
 - ## Languages and Tools 🛠️
 ### Languages:
-| Salesforce Admin |  | Java |
-|--------|---|------|
+| Salesforce Admin | Java |
+|--------|-------|
 
 
 
