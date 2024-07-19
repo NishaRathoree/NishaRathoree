@@ -13,6 +13,11 @@ Visit my portfolio for a detailed overview of my projects and skills: [![Portfol
 Social Media 📡:
 - Join me on - https://www.linkedin.com/authwallQenKXfXBA1Zahl-aQNqhttps%3A%2F%2Fwww.linkedin.com%2Fin%2Fnisha-kanwar-
 
+- ## Languages and Tools 🛠️
+### Languages:
+| Salesforce Admin |  | Java |
+|--------|---|------|
+
 
 
 
