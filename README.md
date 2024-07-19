@@ -5,6 +5,9 @@ I'm a passionate Salesforce with expertise in salesforce Admin and Developer, Ja
 - 💻 Actively practicing and refining coding skills, particularly inimplementing machine learning algorithms and neural netwok .
 - 📚 Engaged in continuous learning on platforms like LeetCode to enhance problem-solving abilities.
 
+Visit my portfolio for a detailed overview of my projects and skills: [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=github)](https://nisharathoree.github.io/nisha/)]
+
+
 <!--
 **NishaRathoree/NishaRathoree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
