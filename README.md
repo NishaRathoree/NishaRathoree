@@ -1,4 +1,5 @@
 ## Hello, I'm Nisha Kanwar!  👋
+I'm a passionate Salesforce with expertise in salesforce Admin and Developer, Java.
 
 <!--
 **NishaRathoree/NishaRathoree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
