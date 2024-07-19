@@ -15,7 +15,7 @@ Social Media 📡:
 
 - ## Languages and Tools 🛠️
 ### Languages:
-| Salesforce Admin &D Developer | Java |
+| Salesforce Admin & Developer | Java |
 |--------|-------|
 <img src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg" alt="Salesforce" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="Go" width="55" height="55"/> |
 
