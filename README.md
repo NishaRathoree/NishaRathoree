@@ -1,5 +1,9 @@
 ## Hello, I'm Nisha Kanwar!  👋
 I'm a passionate Salesforce with expertise in salesforce Admin and Developer, Java.
+### About Me:
+- 🌱 Currently diving into the world of deep learning mastering and salesforce.
+- 💻 Actively practicing and refining coding skills, particularly inimplementing machine learning algorithms and neural netwok .
+- 📚 Engaged in continuous learning on platforms like LeetCode to enhance problem-solving abilities.
 
 <!--
 **NishaRathoree/NishaRathoree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
