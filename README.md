@@ -1,4 +1,4 @@
-## Hello I'm Nisha  👋
+## Hello, I'm Nisha Kanwar!  👋
 
 <!--
 **NishaRathoree/NishaRathoree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
