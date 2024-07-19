@@ -11,7 +11,7 @@ Visit my portfolio for a detailed overview of my projects and skills: [![Portfol
 
 
 Social Media 📡:
-- Join me on - 
+- Join me on - https://www.linkedin.com/authwall?trk=bf&trkInfo=AQFT_cpg_jM8CAAAAZDKyIPo9IU8q0i7D6ok1NHZBjXyBpUfOxJidSnfYt1lC5mD-gxdhcNsbKASjCAqWFjnkhI1-jB1-QenKXfXBA1Zahl-aQNq0YxNGR31oRPs_cSkSuHXA8Q=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnisha-kanwar-748875277%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dandroid_app
 
 
 
